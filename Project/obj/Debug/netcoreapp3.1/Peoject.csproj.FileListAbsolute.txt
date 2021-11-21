@@ -1,0 +1,14 @@
+C:\Users\d.zurkovic\c#\Peoject\Peoject\bin\Debug\netcoreapp3.1\Peoject.exe
+C:\Users\d.zurkovic\c#\Peoject\Peoject\bin\Debug\netcoreapp3.1\Peoject.deps.json
+C:\Users\d.zurkovic\c#\Peoject\Peoject\bin\Debug\netcoreapp3.1\Peoject.runtimeconfig.json
+C:\Users\d.zurkovic\c#\Peoject\Peoject\bin\Debug\netcoreapp3.1\Peoject.runtimeconfig.dev.json
+C:\Users\d.zurkovic\c#\Peoject\Peoject\bin\Debug\netcoreapp3.1\Peoject.dll
+C:\Users\d.zurkovic\c#\Peoject\Peoject\bin\Debug\netcoreapp3.1\Peoject.pdb
+C:\Users\d.zurkovic\c#\Peoject\Peoject\obj\Debug\netcoreapp3.1\Peoject.csproj.AssemblyReference.cache
+C:\Users\d.zurkovic\c#\Peoject\Peoject\obj\Debug\netcoreapp3.1\Peoject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.zurkovic\c#\Peoject\Peoject\obj\Debug\netcoreapp3.1\Peoject.AssemblyInfoInputs.cache
+C:\Users\d.zurkovic\c#\Peoject\Peoject\obj\Debug\netcoreapp3.1\Peoject.AssemblyInfo.cs
+C:\Users\d.zurkovic\c#\Peoject\Peoject\obj\Debug\netcoreapp3.1\Peoject.csproj.CoreCompileInputs.cache
+C:\Users\d.zurkovic\c#\Peoject\Peoject\obj\Debug\netcoreapp3.1\Peoject.dll
+C:\Users\d.zurkovic\c#\Peoject\Peoject\obj\Debug\netcoreapp3.1\Peoject.pdb
+C:\Users\d.zurkovic\c#\Peoject\Peoject\obj\Debug\netcoreapp3.1\Peoject.genruntimeconfig.cache
